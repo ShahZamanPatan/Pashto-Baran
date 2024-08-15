@@ -1,5 +1,3 @@
-This font is initially designed for Pashto Language & Pashto Wikipedia and is entirely rebuilt and expanded, inspired by Nazanin & XB Kayhan Regular font face with support for Pashto ,Arabic, Kurdish, Persian,Uyghur, Urdu, Uzbek, old Turkish (Ottoman) and new Turkish (Roman) using Apple Advanced Typography (AAT) technology and Microsoft Open Type (OT) technology for TrueType format.
-
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
