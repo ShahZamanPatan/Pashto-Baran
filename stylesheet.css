@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Pashto Baran';
+    src: url('fonts/Pashto Baran.eot');
+    src: local('Pashto Baran'), local('Pashto Baran'),
+        url('fonts/Pashto Baran.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Pashto Baran.woff2') format('woff2'),
+        url('fonts/Pashto Baran.woff') format('woff'),
+        url('fonts/Pashto Baran.ttf') format('truetype'),
+        url('fonts/Pashto Baran.svg#Pashto Baran') format('svg');
+    font-weight: Normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pashto Baran';
+    src: url('fonts/Pashto Baran.eot');
+    src: local('Pashto Baran'), local('Pashto Baran'),
+        url('fonts/Pashto Baran.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Pashto Baran.woff2') format('woff2'),
+        url('fonts/Pashto Baran.woff') format('woff'),
+        url('fonts/Pashto Baran.ttf') format('truetype'),
+        url('fonts/Pashto Baran.svg#Pashto Baran') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
